@@ -1,6 +1,7 @@
 # Hey there! I'm Sergey
 
 Currently learning Vue 3 and looking for a job as a front-end dev.
+\
 My contacts:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6212) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eimwe) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prokopenkoserge@gmail.com)
 
