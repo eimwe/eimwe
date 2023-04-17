@@ -1,6 +1,6 @@
-# Hey there! I'm Sergey
+# Hi there!
 
-Currently learning Vue 3 and looking for a job as a front-end dev.
+I'm Sergey, currently learning Vue 3 and looking for a job as a front-end dev.
 \
 My contacts:
 \
